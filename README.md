@@ -5,7 +5,7 @@ ENTER YOUR REGISTER NO : 212222040059
 
 EX. NO :1
 
-DATE: 1.9.24
+DATE: 
 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
